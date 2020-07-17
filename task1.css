@@ -1,0 +1,78 @@
+body{
+        font-family: "Arial";
+    margin: 0;
+
+}
+#header1{
+    background-image: url("../../../pankaj-patel-u2Ru4QBXA5Q-unsplash%20(1).jpg");
+    background-attachment: scroll;
+    width: auto;
+    height: 200px;
+    color: white;
+    background-size: cover;
+    padding: 0;
+    top:0;
+    position: sticky;
+    
+}
+table{
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    height: inherit;
+    width: 100%;
+    font-size: 100px;
+    text-transform: capitalize;
+    margin: 0;
+    border-spacing: 0px;
+    font-weight: 700;
+    
+}
+#ready{
+    background-color:darkorange;
+    background-attachment: fixed;
+        vertical-align: bottom;
+height: 80px;
+}
+a{
+    text-decoration: none;
+    float: right;
+    padding: 10px;
+    text-transform: capitalize;
+    color: inherit;
+    
+}
+.nav{
+    background-color: black;
+    width: 100%;
+    height: auto;
+        color: white;
+    overflow: hidden;
+    
+
+}
+.nav span{
+        padding: 10px;
+   display: inline-block;
+}
+.content{
+    padding: 50px;
+}
+.content table{
+    color: white;
+    width: 100%;
+}
+.content img{
+    width: 300px;
+}
+footer{
+    text-align: center;
+    background-color: darkgray;
+    font-weight: 700;
+    text-transform: capitalize;
+    padding: 10px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+}
